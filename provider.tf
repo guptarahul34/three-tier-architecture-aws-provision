@@ -10,7 +10,7 @@ terraform {
 provider "aws" {
   profile = "default"
   region  = "us-east-1"
-  access_key = "put your aws key"
-  secret_key = "put your secret key here"
+  access_key = "***********"
+  secret_key = "***********"
 }
 
